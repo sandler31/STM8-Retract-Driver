@@ -5,7 +5,7 @@ By default, the driver works with PWM, and in most cases is hooked to an output 
 
 Will this work for your driver? have a look at my blogpost, to see if you have a similar driver in hand:
 
-<URL>
+https://seventhb.it/2016/03/22/hacking-an-rc-retract-controller/
 
 Core firmware parts
 ----
